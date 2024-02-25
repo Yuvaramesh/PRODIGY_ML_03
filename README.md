@@ -1,6 +1,6 @@
 # PRODIGY_ML_03
-## Cat and Dog Image Classification using Support Vector Machines
-## Overview
+### Cat and Dog Image Classification using Support Vector Machines
+### Overview
 ***This project implements a Support Vector Machine (SVM) model to classify images of cats and dogs. The model is trained on a dataset containing images of cats and dogs obtained from Kaggle.***
 
 ### Dataset
